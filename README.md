@@ -14,3 +14,4 @@ Pyroelectric sensing element
 * Fresnel lens
 * Signal conditioning circuit
 * Digital output pin
+The Fresnel lens increases the detection area and focuses infrared radiation onto the sensing element.
