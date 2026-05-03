@@ -10,3 +10,7 @@ When a human body moves across the sensor range, the infrared radiation pattern 
 * LOW → No motion detected
 ## ⚙️ Internal Structure
 A PIR sensor mainly consists of:
+Pyroelectric sensing element
+* Fresnel lens
+* Signal conditioning circuit
+* Digital output pin
