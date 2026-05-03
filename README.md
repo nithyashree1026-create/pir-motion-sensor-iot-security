@@ -29,3 +29,9 @@ The PIR sensor can be connected to ESP32 for IoT-based motion detection.
 * ESP32 processes the input
 * Alert or automation action is triggered
 ## 🌐 IoT Integration
+Using ESP32 Wi-Fi capability, PIR sensor data can be sent to cloud platforms or messaging applications.
+### 🔹 Example Applications
+* Telegram motion alert
+* Blynk notification
+* Home security system
+* Smart lighting automation
