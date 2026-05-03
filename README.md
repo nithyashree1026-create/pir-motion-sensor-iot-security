@@ -9,3 +9,4 @@ When a human body moves across the sensor range, the infrared radiation pattern 
 * HIGH → Motion detected
 * LOW → No motion detected
 ## ⚙️ Internal Structure
+A PIR sensor mainly consists of:
