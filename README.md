@@ -23,3 +23,8 @@ Most PIR sensors have three pins:
 The OUT pin can be connected directly to a GPIO pin of ESP32 or Arduino.
 ## 📡 ESP32 Interfacing
 The PIR sensor can be connected to ESP32 for IoT-based motion detection.
+### 🔹 Basic Flow
+* PIR sensor detects motion
+* Signal is sent to ESP32 GPIO
+* ESP32 processes the input
+* Alert or automation action is triggered
