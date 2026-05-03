@@ -20,3 +20,4 @@ Most PIR sensors have three pins:
 * VCC → Power supply
 * OUT → Digital signal output
 * GND → Ground connection
+The OUT pin can be connected directly to a GPIO pin of ESP32 or Arduino.
