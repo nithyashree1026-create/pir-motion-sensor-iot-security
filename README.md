@@ -47,3 +47,8 @@ Using ESP32 Wi-Fi capability, PIR sensor data can be sent to cloud platforms or 
 * Human presence detection
 * Energy-saving automation
 * Restricted area monitoring
+## ⚠️ Limitations
+* Cannot detect stationary objects continuously
+* May give false triggers due to heat changes
+* Detection range depends on environment
+* Not suitable for precise distance measurement
