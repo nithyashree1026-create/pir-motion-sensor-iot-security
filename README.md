@@ -4,3 +4,4 @@ The PIR (Passive Infrared) motion sensor is one of the most commonly used sensor
 This repository explains the working principle, hardware behavior, ESP32 interfacing, signal output, and real-world IoT applications of PIR motion sensors.
 ## 🧠 Working Principle
 A PIR sensor does not emit radiation by itself. Instead, it passively detects infrared energy from nearby objects.
+When a human body moves across the sensor range, the infrared radiation pattern changes. The sensor detects this variation and generates a digital output signal.
