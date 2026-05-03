@@ -16,3 +16,7 @@ Pyroelectric sensing element
 * Digital output pin
 The Fresnel lens increases the detection area and focuses infrared radiation onto the sensing element.
 ## 🔌 Pin Configuration
+Most PIR sensors have three pins:
+* VCC → Power supply
+* OUT → Digital signal output
+* GND → Ground connection
