@@ -36,3 +36,4 @@ Using ESP32 Wi-Fi capability, PIR sensor data can be sent to cloud platforms or 
 * Home security system
 * Smart lighting automation
 ## 🧩 Design Considerations
+### 🔹 Important Points
