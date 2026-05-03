@@ -8,3 +8,4 @@ When a human body moves across the sensor range, the infrared radiation pattern 
 ### 🔹 Output Behavior
 * HIGH → Motion detected
 * LOW → No motion detected
+## ⚙️ Internal Structure
