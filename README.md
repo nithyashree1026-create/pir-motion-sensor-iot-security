@@ -22,3 +22,4 @@ Most PIR sensors have three pins:
 * GND → Ground connection
 The OUT pin can be connected directly to a GPIO pin of ESP32 or Arduino.
 ## 📡 ESP32 Interfacing
+The PIR sensor can be connected to ESP32 for IoT-based motion detection.
