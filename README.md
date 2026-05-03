@@ -39,3 +39,5 @@ Using ESP32 Wi-Fi capability, PIR sensor data can be sent to cloud platforms or 
 ### 🔹 Important Points
 * Avoid placing sensor near heat sources
 * Adjust sensitivity carefully
+* Provide stable power supply
+* Test detection range before final installation
