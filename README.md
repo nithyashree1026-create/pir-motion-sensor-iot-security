@@ -6,3 +6,5 @@ This repository explains the working principle, hardware behavior, ESP32 interfa
 A PIR sensor does not emit radiation by itself. Instead, it passively detects infrared energy from nearby objects.
 When a human body moves across the sensor range, the infrared radiation pattern changes. The sensor detects this variation and generates a digital output signal.
 ### 🔹 Output Behavior
+* HIGH → Motion detected
+* LOW → No motion detected
