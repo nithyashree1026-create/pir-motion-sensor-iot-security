@@ -52,3 +52,5 @@ Using ESP32 Wi-Fi capability, PIR sensor data can be sent to cloud platforms or 
 * May give false triggers due to heat changes
 * Detection range depends on environment
 * Not suitable for precise distance measurement
+## 🔮 Future Scope
+PIR sensors can be combined with cameras, cloud platforms, AI-based detection, and mobile alerts to build more intelligent security systems.
