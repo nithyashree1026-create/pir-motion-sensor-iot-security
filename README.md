@@ -42,3 +42,8 @@ Using ESP32 Wi-Fi capability, PIR sensor data can be sent to cloud platforms or 
 * Provide stable power supply
 * Test detection range before final installation
 ## 🚀 Advanced Applications
+* Smart home security
+* Automatic corridor lighting
+* Human presence detection
+* Energy-saving automation
+* Restricted area monitoring
